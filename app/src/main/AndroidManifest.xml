@@ -28,8 +28,6 @@
             </intent-filter>
         </activity>
 
-        <!-- Daily Wallpaper Worker is scheduled via WorkManager -->
-
         <!-- Home screen Widget -->
         <receiver
             android:name=".widget.VerseWidgetProvider"
