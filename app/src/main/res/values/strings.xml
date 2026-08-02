@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bible Verse Wallpaper</string>
+    <string name="widget_name">Daily Bible Verse</string>
+    <string name="widget_description">Shows the Bible verse of the day</string>
+    <string name="auto_wallpaper">Auto Wallpaper</string>
+    <string name="set_now">Set Wallpaper Now</string>
+    <string name="todays_verse">Today\'s Verse</string>
+    <string name="enable_auto">Enable daily wallpaper refresh</string>
+    <string name="wallpaper_set">Wallpaper updated successfully</string>
+    <string name="permission_needed">Wallpaper permission is required</string>
+</resources>
